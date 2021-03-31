@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T05:27:39.975Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Sjz_Vxb-xSIMF3llujyr" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-31T06:21:46.609Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Je7pyjwT9W9O9lq3iEHn" version="14.5.3" type="github">
   <diagram id="A3W1nFl9lt1hCEvaAjzx" name="Page-1">
     <mxGraphModel dx="1304" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="NszkzdXjSTYDf9Jt7rWx-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="30" width="630" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="NszkzdXjSTYDf9Jt7rWx-2" value="Lễ tân" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="NszkzdXjSTYDf9Jt7rWx-2" value="Nhân viên lễ tân" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="290" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NszkzdXjSTYDf9Jt7rWx-3" value="Tạo phiếu thuê phòng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
